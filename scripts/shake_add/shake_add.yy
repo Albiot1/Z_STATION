@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"shake_add",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"shake_add",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

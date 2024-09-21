@@ -1,0 +1,1 @@
+mp_grid_clear_rectangle(global.grid,bbox_left+1,bbox_top+1,bbox_right-1,bbox_bottom-1)

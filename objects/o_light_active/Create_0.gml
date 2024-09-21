@@ -1,0 +1,2 @@
+ol_br=brightness
+ol_cstr=color_strength

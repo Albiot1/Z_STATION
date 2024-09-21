@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_invpickup",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.430748,
+  "name":"snd_invpickup",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_invpickup.ogg",
+  "type":0,
+  "volume":1.0,
+}

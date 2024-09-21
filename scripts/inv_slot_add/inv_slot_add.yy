@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"inv_slot_add",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"inv_slot_add",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

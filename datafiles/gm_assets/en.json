@@ -1,0 +1,38 @@
+{
+"PISTOL":"Handgun DrX",
+"PISTOL_DESC":"A standard handgun, used by many",
+"SHOTGUN":"Shotgun XR-2",
+"SHOTGUN_DESC":"Twin barrel shotgun, who doesn't like it ?",
+"BAT":"Baseball Bat",
+"BAT_DESC":"It's pretty common but does its job very well",
+"RIFLE":"Smg RX-5l",
+"RIFLE_DESC":"Common sub machine gun used mostly in army",
+"P_AMMO_BOX":"Gun ammo box",
+"P_AMMO_BOX_DESC":"Full pack of gun ammo",
+"P_AMMO_BOX_USE":"Gives + |32| Pistol ammo",
+
+"ARMOR_STAT_0":"movement speed",
+"ARMOR_STAT_1":"armor",
+"ARMOR_STAT_2":"reload speed",
+"ARMOR_STAT_3":"damage",
+"ARMOR_STAT_4":"pierce",
+"ARMOR_STAT_5":"projectile speed",
+"ARMOR_STAT_6":"accuracy",
+"ARMOR_STAT_7":"projectiles on shot",
+"ARMOR_STAT_8":"ammo capacity",
+"ARMOR_STAT_9":"firerate",
+"ARMOR_STAT_10":"weight reduction",
+"ARMOR_STAT_11":"regeneration speed",
+"ARMOR_STAT_12":"max life",
+"ARMOR_STAT_13":"regeneration amount",
+
+"WEAPON_STAT_0":"damage",
+"WEAPON_STAT_1":"pierce",
+"WEAPON_STAT_2":"projectile speed",
+"WEAPON_STAT_3":"spread",
+"WEAPON_STAT_4":"ammo capacity",
+"WEAPON_STAT_5":"reload speed",
+"WEAPON_STAT_6":"firerate",
+"WEAPON_STAT_7":"weight"
+
+}
