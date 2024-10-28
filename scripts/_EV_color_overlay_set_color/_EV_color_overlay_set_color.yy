@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"_EV_color_overlay_set_color",
   "isCompatibility":false,
   "isDnD":false,

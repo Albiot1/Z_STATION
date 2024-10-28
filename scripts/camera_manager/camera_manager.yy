@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"camera_manager",
   "isCompatibility":false,
   "isDnD":false,

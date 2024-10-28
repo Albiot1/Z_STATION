@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"inv_slot_add",
   "isCompatibility":false,
   "isDnD":false,

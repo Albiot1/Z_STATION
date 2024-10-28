@@ -2,7 +2,7 @@ depth=-abs(y)+50
 if instance_place(x,y,o_wall)
 {
 //audio_play_sound(sfx_sounds_impact3,0,0,0.1)
-audio_play_sound_at(sfx_sounds_impact3,x,y,0,50,300,2,false,0)
+audio_play_sound_at(sfx_sounds_impact3,x,y,0,50,300,2,false,0,0.1)
 var mat=instance_place(x,y,o_wall).material
 
 var cloud_spr=spr_cloud
